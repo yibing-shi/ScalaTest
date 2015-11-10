@@ -1,6 +1,8 @@
 package DeveloperTests
 
 import DeveloperTests.Utils.FileUtils
+import DeveloperTests.StringImprovements._
+import DeveloperTests.StrArrImprovements._
 import org.scalatest._
 
 class StringTests extends FlatSpec with Matchers {
